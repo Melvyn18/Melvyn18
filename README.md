@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @Melvyn18</h1>
+- <marquee>👋 Hi, I’m @Melvyn18</marquee>
 - 👀 I’m interested in UI development
 - 🌱 I’m currently learning Angular
 
