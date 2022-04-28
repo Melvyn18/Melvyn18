@@ -1,4 +1,4 @@
-- <h1 style="color: green">👋 Hi, I’m @Melvyn18</h1>
+- <h1 style="color: green;">👋 Hi, I’m @Melvyn18</h1>
 - 👀 I’m interested in UI development
 - 🌱 I’m currently learning Angular
 
