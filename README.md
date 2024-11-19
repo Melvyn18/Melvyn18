@@ -1,6 +1,8 @@
-- <h1>👋 Hi, I’m @Melvyn18</h1>
-- 👀 I’m interested in UI development
-- 🌱 I’m currently learning Angular
+- <h1>Hi, I’m Melvyn Francis</h1>
+- Full Stack Developer
+- React
+- Spring Boot
+- PostgreSQL
 
 
 <!---
